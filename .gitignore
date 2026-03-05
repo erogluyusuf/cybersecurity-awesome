@@ -1,0 +1,17 @@
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+# Editör ve IDE Dosyaları
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Log ve Geçici Dosyalar
+*.log
+tmp/
+temp/

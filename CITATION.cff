@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research or professional work, please cite it using the following metadata."
+title: "Awesome Enterprise Cybersecurity Architecture"
+authors:
+  - family-names: "Eroglu"
+    given-names: "Yusuf"
+version: "1.0.0"
+date-released: "2026-03-03"
+url: "https://github.com/erogluyusuf/cybersecurity-awesome"
