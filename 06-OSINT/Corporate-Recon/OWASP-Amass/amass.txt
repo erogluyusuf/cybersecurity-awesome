@@ -1,0 +1,3 @@
+[92mglobipedi.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92msasha.ns.cloudflare.com[0m[94m (FQDN)[0m
+[92mglobipedi.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mbeau.ns.cloudflare.com[0m[94m (FQDN)[0m
+[92mglobipedi.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92mmx.turkticaret.net[0m[94m (FQDN)[0m

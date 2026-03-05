@@ -1,0 +1,10 @@
+admin.globipedi.com
+cv.globipedi.com
+example.globipedi.com
+ftp.globipedi.com
+mail.globipedi.com
+mim.globipedi.com
+movie.globipedi.com
+pdf.globipedi.com
+project.globipedi.com
+yenimezun.globipedi.com
