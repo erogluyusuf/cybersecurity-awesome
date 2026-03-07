@@ -81,7 +81,7 @@ Bu rapor, `erogluyusuf` kullanıcı adını temel alarak, hedefin dijital platfo
   * *(Tarama yapıldığında sonuçlar buraya eklenecektir)*
 
 ### 3.6 Maigret (Genişletilmiş Çapraz Analiz)
-* **Durum:** ⏳ Beklemede
+* **Durum:**  Beklemede
 * **Amacı:** Dağınık haldeki tüm bu istihbarat verilerini toplayarak tek bir otomatik PDF istihbarat dosyası haline getirmek.
 * **Bulgular:**
   * *(Tarama yapıldığında sonuçlar buraya eklenecektir)*
