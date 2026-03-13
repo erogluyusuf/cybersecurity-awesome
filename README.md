@@ -1,4 +1,4 @@
-#  Awesome Enterprise Cybersecurity Architecture 
+#  Awesome Enterprise Cybersecurity Architecture  
 
 A comprehensive, enterprise-grade cybersecurity repository mapping operational, defensive, governance, and physical security domains. This archive is meticulously structured according to industry standards, including the **MITRE ATT&CK® Framework** and **Information Security Management Systems (ISMS)** principles.
 
