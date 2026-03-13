@@ -2,7 +2,7 @@
 
 A comprehensive, enterprise-grade cybersecurity repository mapping operational, defensive, governance, and physical security domains. This archive is meticulously structured according to industry standards, including the **MITRE ATT&CK® Framework** and **Information Security Management Systems (ISMS)** principles.
 
-##  Table of Contents
+##  Table of Contents 
 
 ###  Operational & Technical Security
 * [01. Offensive Security (MITRE ATT&CK)](01-Offensive-Security) - Adversary tactics, techniques, and penetration testing tooling.
